@@ -1,2 +1,2 @@
 # javarush
-// This is my homework in javarush.ru
+// This is my homework on javarush.ru
