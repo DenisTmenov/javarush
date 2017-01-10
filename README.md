@@ -1,2 +1,2 @@
 # javarush
-// This is my first file.
+// This is my homework in javarush.ru
